@@ -4,7 +4,7 @@
 #
 Name     : ifaddr
 Version  : 0.1.6
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/9f/54/d92bda685093ebc70e2057abfa83ef1b3fb0ae2b6357262a3e19dfe96bb8/ifaddr-0.1.6.tar.gz
 Source0  : https://files.pythonhosted.org/packages/9f/54/d92bda685093ebc70e2057abfa83ef1b3fb0ae2b6357262a3e19dfe96bb8/ifaddr-0.1.6.tar.gz
 Summary  : Enumerates all IP addresses on all network adapters of the system.
